@@ -1,0 +1,6 @@
+Revision 1
+while writting code a person tends to do some mistakes. often when a person tries to improve his code he usually ends up making some silly mistakes or do some changes that results in the crash of the system so by differentiating between previous version and new versionone can easily find out probable causes for the crash and even can remove some of the unnecessary changes.
+Revision 2
+having easy access to earlier versions is very helful for the comlete process of programming.it helps to review the whole process of improvement.if you want to use some of the features of the previous versions you can easily see them in case you have some doubts.
+Revision 3
+usually while coding for big problems tere are more than one file in that case it isnecessary to track every file simultaneously in order to ensure thatfiles are synchronized. 
